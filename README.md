@@ -1,4 +1,4 @@
-# weather-reports
+# Readme
 Weather Reports - A simple weather macro and rolltable set for any Foundry VTT system
 
 This module contains one main macro, several reference macros, several rolltables and a journal complete with inter-linked weather conditions and effects.
