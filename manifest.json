@@ -38,6 +38,6 @@
     }
 ]
 	"url": "https://github.com/paulcheeba/weather-reports",
-	"manifest": "https://github.com/paulcheeba/weather-reports/blob/main/manifest.json",
-	"download": ""
+	"manifest": "https://github.com/paulcheeba/weather-reports/release/tag/v0.1.1/manifest.json",
+	"download": "https://github.com/paulcheeba/weather-reports/release/tag/v0.1.1",
 }
