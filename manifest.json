@@ -33,8 +33,8 @@
       "name": "weather-macros",
       "label": "Weather Reports Macros",
       "system": "system-id",
-      "path": "./packs/weather-rolltables.db",
-      "type": "Rolltable"
+      "path": "./packs/weather-macros.db",
+      "type": "Macro"
     }
 		{
       "name": "weather-actors",
@@ -51,7 +51,7 @@
       "type": "Rolltable"
     }
 ]
-	"url":
-	"manifest":
-	"download":
+	"url": "https://github.com/paulcheeba/weather-reports",
+	"manifest": "https://github.com/paulcheeba/weather-reports/blob/main/manifest.json",
+	"download": ""
 }
