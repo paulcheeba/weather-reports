@@ -1,0 +1,57 @@
+{
+  "id": "weather-reports",
+  "title": "Weather Reports - A universal weather macro and rolltable set.",
+  "description": "A simple module with a macro that gives the user the option to choose a season and output the weather for that day in the chat. Concept is based on the old unmaintained module Weather Effects, with seasonal weather effects for any system based on homebrew by KibblesTasty (https://www.gmbinder.com/share/-M6xAC_2zw4BzpByxO-c).",
+  "authors": [
+    {
+    "name": "Paulcheeba"
+	"url": "https://patreon.com/user?u=45257624"
+	"discord": "crusherDESTROYER#2881"
+    }
+    ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  }
+"packs": [
+	    {
+      "name": "weather-effects",
+      "label": "Weather Reports Effects",
+      "system": "system-id",
+      "path": "./packs/weather-effects.db",
+      "type": "Item"
+    }
+	    {
+      "name": "weather-rolltables",
+      "label": "Weather Reports Rolltables",
+      "system": "system-id",
+      "path": "./packs/weather-rolltables.db",
+      "type": "Rolltable"
+    }
+		{
+      "name": "weather-macros",
+      "label": "Weather Reports Macros",
+      "system": "system-id",
+      "path": "./packs/weather-rolltables.db",
+      "type": "Rolltable"
+    }
+		{
+      "name": "weather-actors",
+      "label": "Weather Reports Actors",
+      "system": "system-id",
+      "path": "./packs/weather-actors.db",
+      "type": "Rolltable"
+    }
+		{
+      "name": "weather-journals",
+      "label": "Weather Reports Journals",
+      "system": "system-id",
+      "path": "./packs/weather-journals.db",
+      "type": "Rolltable"
+    }
+]
+	"url":
+	"manifest":
+	"download":
+}
