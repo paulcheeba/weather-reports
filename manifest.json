@@ -18,35 +18,35 @@
 	    {
       "name": "weather-effects",
       "label": "Weather Reports Effects",
-      "system": "system-id",
+      "module": "weather-reports",
       "path": "./packs/weather-effects.db",
       "type": "Item"
     }
 	    {
       "name": "weather-rolltables",
       "label": "Weather Reports Rolltables",
-      "system": "system-id",
+      "module": "weather-reports",
       "path": "./packs/weather-rolltables.db",
       "type": "Rolltable"
     }
 		{
       "name": "weather-macros",
       "label": "Weather Reports Macros",
-      "system": "system-id",
+      "module": "weather-reports",
       "path": "./packs/weather-macros.db",
       "type": "Macro"
     }
 		{
       "name": "weather-actors",
       "label": "Weather Reports Actors",
-      "system": "system-id",
+      "module": "weather-reports",
       "path": "./packs/weather-actors.db",
       "type": "Rolltable"
     }
 		{
       "name": "weather-journals",
       "label": "Weather Reports Journals",
-      "system": "system-id",
+      "module": "weather-reports",
       "path": "./packs/weather-journals.db",
       "type": "Rolltable"
     }
