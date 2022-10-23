@@ -7,11 +7,12 @@
 		"url": "https://patreon.com/user?u=45257624",
 		"discord": "crusherDESTROYER#2881"
 	}],
-	"version": "1.0.0",
+	"version": "0.1.1",
 	"compatibility": {
 		"minimum": "10",
 		"verified": "10"
 	},
+	"minimumCoreVersion": "10",
 	"packs": [{
 			"name": "weather-rolltables",
 			"label": "Weather Reports Rolltables",
@@ -31,10 +32,10 @@
 			"label": "Weather Reports Journals",
 			"module": "weather-reports",
 			"path": "./packs/weather-journals.db",
-			"type": "Rolltable"
+			"type": "Journal"
 		}
 	],
 	"url": "https://github.com/paulcheeba/weather-reports",
-	"manifest": "https://github.com/paulcheeba/weather-reports/release/tag/v0.1.1/module.json",
-	"download": "https://github.com/paulcheeba/weather-reports/release/tag/v0.1.1"
+	"manifest": "https://github.com/paulcheeba/weather-reports/releases/tag/v0.1.1/module.json",
+	"download": "https://github.com/paulcheeba/weather-reports/releases/tag/v0.1.1"
 }
