@@ -1,0 +1,62 @@
+{
+  "id": "weather-reports-5e
+  "title": "Weather Reports - A D&D 5e weather macro and rolltable set.",
+  "description": "A simple module with a macro that gives the user the option to choose a season and output the weather for that day in the chat. Concept is based on the old unmaintained module Weather Effects, with seasonal weather effects for any system based on homebrew by KibblesTasty (https://www.gmbinder.com/share/-M6xAC_2zw4BzpByxO-c).",
+  "authors": [
+    {
+    "name": "Paulcheeba"
+	"url": "https://patreon.com/user?u=45257624"
+	"discord": "crusherDESTROYER#2881"
+    }
+    ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  }
+"packs": [
+	    {
+      "name": "weather-effects",
+      "label": "Weather Reports Effects",
+      "module": "weather-reports",
+      "system": "dnd5e",
+      "path": "./5e/packs/weather-effects-5e.db",
+      "type": "Item"
+    }
+	    {
+      "name": "weather-rolltables",
+      "label": "Weather Reports Rolltables",
+      "module": "weather-reports",
+        "system": "dnd5e",
+      "path": "./5e/packs/weather-rolltables-5e.db",
+      "type": "Rolltable"
+    }
+		{
+      "name": "weather-macros",
+      "label": "Weather Reports Macros",
+      "module": "weather-reports",
+      "system": "dnd5e",
+      "path": "./5e/packs/weather-macros-5e.db",
+      "type": "Macro"
+    }
+		{
+      "name": "weather-actors",
+      "label": "Weather Reports Actors",
+      "module": "weather-reports",
+      "system": "dnd5e",
+      "path": "./5e/packs/weather-actors-5e.db",
+      "type": "Rolltable"
+    }
+		{
+      "name": "weather-journals",
+      "label": "Weather Reports Journals",
+      "module": "weather-reports",
+      "system": "dnd5e",
+      "path": "./5e/packs/weather-journals-5e.db",
+      "type": "Rolltable"
+    }
+]
+	"url": "https://github.com/paulcheeba/weather-reports",
+	"manifest": "https://github.com/paulcheeba/weather-reports/5e/blob/main/manifest.json",
+	"download": ""
+}
