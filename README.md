@@ -19,5 +19,5 @@ I intend on adding a vanilla D&D 5e SRD based set of conditions and keeping the 
 ### Credits:
 The "Spicy" rolltables included are based on homebrew by KibblesTasty (https://www.gmbinder.com/share/-M6xAC_2zw4BzpByxO-c). You can find more homebrew by KibblesTasty at https://www.patreon.com/KibblesTasty. This module is a reimagining of an older module called Weather Effects that is no longer maintained (https://github.com/orangetruth/weather-effects-5e).
 
-Manifest:
-https://kjhasdkjfhkjahsdfkjhasd.com
+Manifest Link:
+[Latest Version](https://github.com/paulcheeba/weather-reports/releases/latest/download/module.json)
