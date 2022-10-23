@@ -15,14 +15,7 @@
     "verified": "10"
   }
 "packs": [
-	    {
-      "name": "weather-effects",
-      "label": "Weather Reports Effects",
-      "module": "weather-reports",
-      "path": "./packs/weather-effects.db",
-      "type": "Item"
-    }
-	    {
+	        {
       "name": "weather-rolltables",
       "label": "Weather Reports Rolltables",
       "module": "weather-reports",
@@ -35,13 +28,6 @@
       "module": "weather-reports",
       "path": "./packs/weather-macros.db",
       "type": "Macro"
-    }
-		{
-      "name": "weather-actors",
-      "label": "Weather Reports Actors",
-      "module": "weather-reports",
-      "path": "./packs/weather-actors.db",
-      "type": "Rolltable"
     }
 		{
       "name": "weather-journals",
