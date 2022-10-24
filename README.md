@@ -26,7 +26,7 @@ Example of the chat message.
 Example of the effect description journals.
 
 ### How Weather Reports works and what it does:
-The macro gives you the option to roll from several seasons and situational effect rolltables. These are all included in the module's weather-rolltables and weather-journals compendiums, and do not need to be copied to your sidebar or hotbar to work, rather the macro rolls directly from the Weather Reports journal or weather-macros compendium. Each rolltable has links to specific conditions or effects for its season and outputs a message to chat complete with a link to the effect or conditions journal description.
+The macro gives you the option to roll from several seasons and situational effect rolltables. These are all included in the module's weather-rolltables and weather-journals compendiums. The journals and rolltables do not need to be copied to your sidebar. The macro rolls directly from your hotbar. Each rolltable has links to specific conditions or effects for its season and outputs a message to chat complete with a link to the effect or conditions journal description.
 
 ### Future plans:
 I intend on adding a vanilla D&D 5e SRD based set of conditions and keeping the current set as a "Spicy" set of conditions. I may also add Dynamic Active Effects that will add conditions to all tokens on a scene when a Weather Reports is applied to the scene. DAE will not be necessary to enjoy the module without any automation, but would be recommended for the full effects when this is added.
