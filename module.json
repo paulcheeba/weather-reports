@@ -18,7 +18,7 @@
 			"label": "Weather Reports Rolltables",
 			"module": "weather-reports",
 			"path": "./packs/weather-rolltables.db",
-			"type": "Rolltable"
+			"type": "RollTable"
 		},
 		{
 			"name": "weather-macros",
@@ -32,7 +32,7 @@
 			"label": "Weather Reports Journals",
 			"module": "weather-reports",
 			"path": "./packs/weather-journals.db",
-			"type": "Journal"
+			"type": "JournalEntry"
 		}
 	],
 	"url": "https://github.com/paulcheeba/weather-reports",
