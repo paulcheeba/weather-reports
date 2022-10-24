@@ -11,7 +11,7 @@ To install this module, first copy the link to the manifest (below) then in foun
 Importing the macros from the weather-macros compendium.
 
 ### How to use Weather Reports:
-To use Weather Reports drag the Weather Report Generator macro to your hotbar and click it! You will be presented with mutliple options, each rolls its own roll-table and ourputs the reults to chat. The results also contain a wethaer effect links to the Weather Journal that contains a detailed description of the effect.
+To use Weather Reports drag the Weather Report Generator macro from your macro folder to your hotbar and click it! You will be presented with mutliple options, each rolls its own roll-table and ourputs the reults to chat. The results also contain a wethaer effect links to the Weather Journal that contains a detailed description of the effect.
 
 ![image](https://user-images.githubusercontent.com/75949480/197436842-8b6ef5f9-d966-4e21-904e-2b63b3f71fa6.png)<br>
 Macro folder and hotbar showing the imported macros.
