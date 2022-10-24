@@ -15,6 +15,7 @@ To use Weather Reports drag the Weather Report Generator macro to your hotbar an
 
 ![image](https://user-images.githubusercontent.com/75949480/197436842-8b6ef5f9-d966-4e21-904e-2b63b3f71fa6.png)<br>
 Macro folder and hotbar showing the imported macros.
+
 ![image](https://user-images.githubusercontent.com/75949480/197436887-e983630f-bfd1-4134-915d-894c816d0568.png)<br>
 Example of the Macro Dialog.
 
