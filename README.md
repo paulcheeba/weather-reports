@@ -5,9 +5,10 @@
 This module contains one easy to use Weather Report Generator macro, several reference macros, several homebrew rolltables and a journal complete with inter-linked weather conditions and effects.
 
 ### Installation:
-To install this module, first copy the link to the manifest (below) then in foundry add a new module and paste the manifest link into the supplied field and press ok. Once the module is installed and you enable the module, you need to import the entire weather-macros compendium by right clicking on the compendium and selecting Import All Content.
+To install this module, first copy the link to the manifest (below) then in foundry add a new module and paste the manifest link into the supplied field and press ok. Once the module is installed and you enable the module in your world, you need to import the entire weather-macros compendium by right clicking on the compendium and selecting Import All Content.
 
 ![image](https://user-images.githubusercontent.com/75949480/197436429-10832445-328e-445e-985f-79a4346d5190.png)
+Importing the macros from the weather-macros compendium.
 
 ### How to use Weather Reports:
 To use Weather Reports drag the Weather Report Generator macro to your hotbar and click it! You will be presented with mutliple options, each rolls its own roll-table and ourputs the reults to chat. The results also contain a wethaer effect links to the Weather Journal that contains a detailed description of the effect.
