@@ -13,6 +13,10 @@
 		"verified": "10"
 	},
 	"minimumCoreVersion": "10",
+  "scripts": [
+      "scripts/settings.js",
+      "scripts/changelog.js"
+    ],
 	"packs": [{
 			"name": "weather-rolltables",
 			"label": "Weather Reports Rolltables",
@@ -25,6 +29,13 @@
 			"label": "Weather Reports Macros",
 			"module": "weather-reports",
 			"path": "./packs/weather-macros.db",
+			"type": "Macro"
+		},
+		{
+			"name": "weather-fxmaster-macros",
+			"label": "Weather Reports FXMaster Macros",
+			"module": "weather-reports",
+			"path": "./packs/weather-reports-fxmaster-macros.db",
 			"type": "Macro"
 		},
 		{
