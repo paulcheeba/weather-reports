@@ -54,6 +54,14 @@ The macro rolls directly from your hotbar, which presents the DM with a list of 
 
 There are currently over 700 possible results, including 100 wild magic surge conditions and several Strange Phenomena that may occur!
 
+### Recommended Modules to enable all Weather Reports features:
+*Note - These modules are not necessary for the core function of Weather Reports, but do add some great features.*
+- Simple Calendar https://github.com/vigoren/foundryvtt-simple-calendar
+- FXMaster https://github.com/ghost-fvtt/fxmaster
+
+Also recommended for QOL:
+- Compendium Folders https://github.com/earlSt1/vtt-compendium-folders
+
 ### Future plans:
 
 I will be fleshing out a DnD5e companion module at some point in the future. I intend on adding vanilla D&D 5e SRD based condition automation with Dynamic Active Effects that will add conditions to all tokens when a Weather Report is applied to the scene.
