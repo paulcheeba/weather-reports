@@ -36,6 +36,7 @@ The chat card contains the following information:
 
 3. Temperature description in both °C and °F.
 
+
 4. Duration of the effect. This duration is also sent to Simple Calendar.
 
 ![image](https://user-images.githubusercontent.com/75949480/227755631-5d9a2233-594c-4e7c-9fbe-3c8996435da2.png)
@@ -53,6 +54,14 @@ The macro gives you the option to roll from several seasons and situational effe
 The macro rolls directly from your hotbar, which presents the DM with a list of regions that once a region is chosen, the DM is propted with a list of seasons for that region. When a regional season is selected it's associated series of roll-tables are rolled and the details are formatted and sent to the chat window as a chat card. At the same time the report is also sent to simple calendar and stored as a trackable event.
 
 There are currently over 700 possible results, including 100 wild magic surge conditions and several Strange Phenomena that may occur!
+
+### Recommended Modules to enable all Weather Reports features:
+*Note - These modules are not necessary for the core function of Weather Reports, but do add some great features.*
+- Simple Calendar https://github.com/vigoren/foundryvtt-simple-calendar
+- FXMaster https://github.com/ghost-fvtt/fxmaster
+
+Also recommended for QOL:
+- Compendium Folders https://github.com/earlSt1/vtt-compendium-folders
 
 ### Future plans:
 
