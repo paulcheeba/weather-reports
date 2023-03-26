@@ -36,6 +36,7 @@ The chat card contains the following information:
 
 3. Temperature description in both °C and °F.
 
+
 4. Duration of the effect. This duration is also sent to Simple Calendar.
 
 ![image](https://user-images.githubusercontent.com/75949480/227755631-5d9a2233-594c-4e7c-9fbe-3c8996435da2.png)
