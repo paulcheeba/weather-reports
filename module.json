@@ -1,6 +1,6 @@
 {
 	"id": "weather-reports",
-	"title": "Weather Reports - A universal weather macro and rolltable set.",
+	"title": "Weather Reports",
 	"description": "A simple module with a macro that gives the user the option to choose a season and output the weather for that day in the chat. Concept is based on the old unmaintained module Weather Effects, with seasonal weather effects for any system based on homebrew by KibblesTasty (https://www.gmbinder.com/share/-M6xAC_2zw4BzpByxO-c).",
 	"authors": [{
 		"name": "Paulcheeba",
