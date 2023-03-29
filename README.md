@@ -4,6 +4,12 @@
 
 This module contains one easy to use WR Regional Weather Reports Generator macro, several reference macros, several homebrew roll-tables and a Weather Reports Journal complete with inter-linked weather conditions and effects.
 
+### Integrations and Dependencies:
+
+- Simple Calendar - Dependency (required dependency for now, will be optional in later versions)
+
+- FXMaster - Recommended (Required to use weather reports effects - Throws a harmless error if not installed, will be optional in later versions)
+
 ### Installation:
 
 Once the module is installed and you have enabled the module in your world, there is one thing you should do for ease of use. While this module can be used in it's entirety directly from the Weather Reports compendia, it is recommended that you drag the WR Weather Reports Generator macro directly to your hotbar:
@@ -18,7 +24,7 @@ Once the module is installed and you have enabled the module in your world, ther
 
 ### How to use Weather Reports:
 
-After you have dragged the macro to your hotbar, click it! You will be presented with multiple regions to choose from. Each region has four seasons that you will be prompted to choose from. Selecting a season rolls its specific series of roll-tables and outputs the results to chat, and at the same time sends those same details to Simple Calendar for tracking the event and its duration. (Simple Calendar is not required to use this module but is highly recommended to get the complete Weather Reports experience).
+After you have dragged the macro to your hotbar, click it! You will be presented with multiple regions to choose from. Each region has four seasons that you will be prompted to choose from. Selecting a season rolls its specific series of roll-tables and outputs the results to chat, and at the same time sends those same details to Simple Calendar for tracking the event and its duration.
 
 ![image](https://user-images.githubusercontent.com/75949480/227755565-09dc888e-f490-4954-ad8c-88f2d2682c89.png)
 
@@ -54,14 +60,6 @@ The macro gives you the option to roll from several seasons and situational effe
 The macro rolls directly from your hotbar, which presents the DM with a list of regions that once a region is chosen, the DM is propted with a list of seasons for that region. When a regional season is selected it's associated series of roll-tables are rolled and the details are formatted and sent to the chat window as a chat card. At the same time the report is also sent to simple calendar and stored as a trackable event.
 
 There are currently over 700 possible results, including 100 wild magic surge conditions and several Strange Phenomena that may occur!
-
-### Recommended Modules to enable all Weather Reports features:
-*Note - These modules are not necessary for the core function of Weather Reports, but do add some great features.*
-- Simple Calendar https://github.com/vigoren/foundryvtt-simple-calendar
-- FXMaster https://github.com/ghost-fvtt/fxmaster
-
-Also recommended for QOL:
-- Compendium Folders https://github.com/earlSt1/vtt-compendium-folders
 
 ### Future plans:
 
